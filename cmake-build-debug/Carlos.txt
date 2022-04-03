@@ -1,0 +1,10 @@
+Lista de Jogadas: 	Data: Thu Jun 17 14:27:28 2021
+
+L:0	C:0 Joker:0 Jogada:1 Caracter:G
+L:4	C:1 Joker:1 Jogada:2 Caracter:#
+L:1	C:1 Joker:0 Jogada:3 Caracter:G
+L:2	C:1 Joker:0 Jogada:4 Caracter:G
+L:2	C:2 Joker:0 Jogada:5 Caracter:G
+L:2	C:1 Joker:0 Jogada:6 Caracter:Y
+L:3	C:3 Joker:0 Jogada:7 Caracter:G
+L:3	C:3 Joker:0 Jogada:8 Caracter:G

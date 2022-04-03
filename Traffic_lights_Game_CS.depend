@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1619537429 source:d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\players.c
+	"players.h"
+
+1619537808 d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\players.h
+
+1620944718 source:d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<locale.h>
+	"gdata.h"
+	"utils.h"
+	"moves.h"
+	"players.h"
+
+1621038561 source:d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\moves.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"gdata.h"
+	"moves.h"
+	"utils.h"
+
+1621028983 d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\moves.h
+
+1619491522 source:d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\maingard.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<conio.h>
+
+1619491521 source:d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\maingard2.c
+	<stdio.h>
+
+1619433655 source:d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1619386140 d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\utils.h
+
+1619406685 d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1619538230 source:d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\game_data.c
+	"game_data.h"
+
+1619538375 d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\game_data.h
+
+1620948790 source:d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\gdata.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<locale.h>
+	"gdata.h"
+	"utils.h"
+	"moves.h"
+	"players.h"
+
+1620943800 d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\gdata.h
+
+1619563128 source:d:\onedrive\isec\programação\codeblocks\traffic_lights_game_cs\realloc.c
+	<stdio.h>
+	<stdlib.h>
+
+1619893070 source:d:\onedrive\isec\programação\traffic_lights_game_cs-bkp04052021\gdata.c
+	"gdata.h"
+
+1619893020 d:\onedrive\isec\programação\traffic_lights_game_cs-bkp04052021\gdata.h
+
+1619537429 source:d:\onedrive\isec\programação\traffic_lights_game_cs-bkp04052021\players.c
+	"players.h"
+
+1619537808 d:\onedrive\isec\programação\traffic_lights_game_cs-bkp04052021\players.h
+
+1619563128 source:d:\onedrive\isec\programação\traffic_lights_game_cs-bkp04052021\realloc.c
+	<stdio.h>
+	<stdlib.h>
+
+1619433655 source:d:\onedrive\isec\programação\traffic_lights_game_cs-bkp04052021\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1619386140 d:\onedrive\isec\programação\traffic_lights_game_cs-bkp04052021\utils.h
+
+1620092590 source:d:\onedrive\isec\programação\traffic_lights_game_cs-bkp04052021\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<locale.h>
+	"gdata.h"
+	"utils.h"
+	"moves.h"
+	"players.h"
+
+1620093233 d:\onedrive\isec\programação\traffic_lights_game_cs-bkp04052021\moves.h
+
+1620094017 source:d:\onedrive\isec\programação\traffic_lights_game_cs-bkp04052021\moves.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"gdata.h"
+	"moves.h"
+	"utils.h"
+
